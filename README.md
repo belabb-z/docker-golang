@@ -45,4 +45,4 @@ Feel free to contribute on GitHub.
    ╚═(███)═╝
 ```
 
-[license-img]: https://img.shields.io/badge/license-ISC-blue.svg
+[license-img]: https://img.shields.io/badge/license-apache-blue.svg

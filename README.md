@@ -1,4 +1,4 @@
-# docker-golang ![License][license-img]
+# docker-golang ![License][license-img] [![Docker][docker-img]][docker-url]
 
 ## Overview
 
@@ -46,3 +46,5 @@ Feel free to contribute on GitHub.
 ```
 
 [license-img]: https://img.shields.io/badge/license-apache-blue.svg
+[docker-img]: https://img.shields.io/docker/pulls/vpgrp/golang.svg
+[docker-url]: https://registry.hub.docker.com/u/vpgrp/golang

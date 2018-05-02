@@ -16,6 +16,8 @@ FROM golang:latest
 
 ENV DEBIAN_FRONTEND=noninteractive
 
+RUN echo exit 0 > /usr/sbin/policy-rc.d
+
 RUN apt-get update  -qq && \
     apt-get upgrade -qq -y && \
     apt-get install -qq -y \
